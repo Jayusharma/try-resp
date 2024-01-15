@@ -22,7 +22,7 @@ int binarySearch(int arr[], int size , int key)
         {
             start=mid+1;
         }
-        //for left part
+        //for left part go to side.
         else{
             end=mid-1;
         }
